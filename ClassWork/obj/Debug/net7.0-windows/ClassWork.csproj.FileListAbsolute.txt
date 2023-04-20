@@ -1,0 +1,17 @@
+D:\CodeProject\C#\ClassWork\ClassWork\bin\Debug\net7.0-windows\ClassWork.exe
+D:\CodeProject\C#\ClassWork\ClassWork\bin\Debug\net7.0-windows\ClassWork.deps.json
+D:\CodeProject\C#\ClassWork\ClassWork\bin\Debug\net7.0-windows\ClassWork.runtimeconfig.json
+D:\CodeProject\C#\ClassWork\ClassWork\bin\Debug\net7.0-windows\ClassWork.dll
+D:\CodeProject\C#\ClassWork\ClassWork\bin\Debug\net7.0-windows\ClassWork.pdb
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ClassWork.csproj.AssemblyReference.cache
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ClassWork.Form1.resources
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ClassWork.csproj.GenerateResource.cache
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ClassWork.AssemblyInfoInputs.cache
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ClassWork.AssemblyInfo.cs
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ClassWork.csproj.CoreCompileInputs.cache
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ClassWork.dll
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\refint\ClassWork.dll
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ClassWork.pdb
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ClassWork.genruntimeconfig.cache
+D:\CodeProject\C#\ClassWork\ClassWork\obj\Debug\net7.0-windows\ref\ClassWork.dll
